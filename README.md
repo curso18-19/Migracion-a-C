@@ -1,2 +1,2 @@
 # Migracion-a-C
-Migrar a C el programa entregado.
+Migrar a C el programa entregado en clase.
